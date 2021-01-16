@@ -17,4 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ibnsultan&repo=sahil&theme=dracula)](https://github.com/ibnsultan/sahil)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kalebu&repo=pyswahili&theme=dracula)](https://github.com/ibnsultan/pyswahili)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ibnsultan&repo=swahili-programming-language&theme=dracula)](https://github.com/ibnsultan/swahili-programming-language)
+
 ![Abdulbasit's Github Stats](https://github-readme-stats.vercel.app/api?username=ibnsultan&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibnsultan&layout=compact&theme=radical)](https://github.com/ibnsultan/github-readme-stats)
