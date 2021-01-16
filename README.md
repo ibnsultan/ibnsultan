@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kalebu&repo=pyswahili&theme=dracula)](https://github.com/ibnsultan/pyswahili)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ibnsultan&repo=swahili-programming-language&theme=dracula)](https://github.com/ibnsultan/swahili-programming-language)
 
-![Abdulbasit's Github Stats](https://github-readme-stats.vercel.app/api?username=ibnsultan&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibnsultan&layout=compact&theme=radical)](https://github.com/ibnsultan/github-readme-stats)
+<img src='https://camo.githubusercontent.com/c5acd520b2eaa803f79ecd2bce69c36e6a20b999242011ea49d1302f9ef96b26/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d69626e73756c74616e266c61796f75743d636f6d70616374267468656d653d7261646963616c' width='100%' />
+<img src='https://camo.githubusercontent.com/e05750ad8e5927b6f4e0d0a75265b81540cbb24dc7f38d43da7acf3ef8734506/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d69626e73756c74616e2673686f775f69636f6e733d74727565267468656d653d7261646963616c' width='100%' />
