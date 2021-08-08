@@ -1,5 +1,5 @@
 ### Hi Folks 👋
-![Abdulbasit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibnsultan&show_icons=true&theme=tokyonight)
+
 <img src='https://github-readme-stats.vercel.app/api?username=ibnsultan&show_icons=true&theme=tokyonight' width='100%' />
 <!--
 **ibnsultan/ibnsultan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,13 +14,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibnsultan&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src='https://github.com/ibnsultan/ibnsultan/blob/main/assets/gitcover.gif' width='100%' height='auto' />
+![Abdulbasit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibnsultan&show_icons=true&theme=tokyonight)
 -->
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ibnsultan&repo=sahil&theme=dracula)](https://github.com/ibnsultan/sahil)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kalebu&repo=pyswahili&theme=dracula)](https://github.com/ibnsultan/pyswahili)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ibnsultan&repo=swahili-programming-language&theme=dracula)](https://github.com/ibnsultan/swahili-programming-language)
+### Languages I prefer
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ibnsultan&langs_count=8&hide=css,html,javascript&layout=compact&theme=tokyonight' width='100%' />
 
-<img src='https://camo.githubusercontent.com/c5acd520b2eaa803f79ecd2bce69c36e6a20b999242011ea49d1302f9ef96b26/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d69626e73756c74616e266c61796f75743d636f6d70616374267468656d653d7261646963616c' width='100%' />
+### My weekly coding stats
+<img src='https://github-readme-stats.vercel.app/api/wakatime?username=abdulbasit&layout=compact&theme=tokyonight' width='100%' />
