@@ -1,6 +1,6 @@
 ### Hi Folks 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibnsultan&show_icons=true&theme=tokyonight)
-<img src='https://camo.githubusercontent.com/e05750ad8e5927b6f4e0d0a75265b81540cbb24dc7f38d43da7acf3ef8734506/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d69626e73756c74616e2673686f775f69636f6e733d74727565267468656d653d7261646963616c' width='100%' />
+![Abdulbasit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibnsultan&show_icons=true&theme=tokyonight)
+<img src='https://github-readme-stats.vercel.app/api?username=ibnsultan&show_icons=true&theme=tokyonight' width='100%' />
 <!--
 **ibnsultan/ibnsultan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
