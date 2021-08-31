@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 ![Abdulbasit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibnsultan&show_icons=true&theme=tokyonight)
 -->
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ibnsultan&repo=sahil&theme=dracula)](https://github.com/ibnsultan/sahil)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kalebu&repo=pyswahili&theme=dracula)](https://github.com/ibnsultan/pyswahili)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ibnsultan&repo=swahili-programming-language&theme=dracula)](https://github.com/ibnsultan/swahili-programming-language)
 ### Languages I prefer
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ibnsultan&langs_count=8&hide=css,html,javascript&layout=compact&theme=tokyonight' width='100%' />
 
