@@ -28,3 +28,6 @@ Here are some ideas to get you started:
 
 ### My weekly coding stats
 <img src='https://github-readme-stats.vercel.app/api/wakatime?username=abdulbasit&layout=compact&theme=tokyonight' width='100%' />
+
+### Trophies
+<img src='https://github-profile-trophy.vercel.app/?username=mrblack360&theme=tokyonight' width='100%'>
