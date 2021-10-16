@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ![Abdulbasit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibnsultan&show_icons=true&theme=tokyonight)
 -->
 
-### Languages I prefer
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ibnsultan&langs_count=8&hide=css,html,javascript&layout=compact&theme=tokyonight' width='100%' />
+### Languages Brief
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ibnsultan&langs_count=8&hide=css,html&layout=compact&theme=tokyonight' width='100%' />
 
 ### My weekly coding stats
 <img src='https://github-readme-stats.vercel.app/api/wakatime?username=abdulbasit&layout=compact&theme=tokyonight' width='100%' />
