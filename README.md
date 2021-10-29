@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 ### Languages Brief
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ibnsultan&langs_count=8&hide=css,html&layout=compact&theme=tokyonight' width='100%' />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ibnsultan&langs_count=8&hide=css,javascript,html&layout=compact&theme=tokyonight' width='100%' />
 
 ### My weekly coding stats
 <img src='https://github-readme-stats.vercel.app/api/wakatime?username=abdulbasit&layout=compact&theme=tokyonight' width='100%' />
