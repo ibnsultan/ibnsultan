@@ -1,6 +1,6 @@
 ### Hi Folks 👋
+- 😄 My name is Abdulbasit Rubeiyya, a software Engineer from Dar es Salaam from Tanzania
 
-<img src='https://github-readme-stats.vercel.app/api?username=ibnsultan&show_icons=true&theme=tokyonight&include_all_stars=true' width='100%' />
 <!--
 **ibnsultan/ibnsultan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,10 +21,7 @@ Here are some ideas to get you started:
 -->
 
 ### Languages Brief
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ibnsultan&langs_count=8&hide=css,html&layout=compact&theme=tokyonight' width='100%' />
-
-### My weekly coding stats
-<img src='https://github-readme-stats.vercel.app/api/wakatime?username=abdulbasit&layout=compact&theme=tokyonight' width='100%' />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ibnsultan&langs_count=8&hide=css,html&layout=compact&theme=tokyonight' />
 
 ### Trophies
-<img src='https://github-profile-trophy.vercel.app/?username=ibnsultan&theme=tokyonight' width='100%'>
+<img src='https://github-profile-trophy.vercel.app/?username=ibnsultan&theme=tokyonight' />
