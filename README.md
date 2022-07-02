@@ -1,5 +1,11 @@
 ### Hi Folks 👋
 - 😄 My name is Abdulbasit Rubeiyya, a software Engineer from Dar es Salaam from Tanzania
+- 🔭 Languages
+  - PHP, Javascript, Dart, Python, R, HTML & CSS
+- 🌱 Frameworks
+  - DyF, Laravel, Cordova, Ionic, Angular, Flutter
+- 💻 Operating Systems
+  - Windows, Ubuntu
 
 <!--
 **ibnsultan/ibnsultan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
