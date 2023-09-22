@@ -47,8 +47,3 @@
   <img src="https://streak-stats.demolab.com?user=ibnsultan&theme=radical" height="150" alt="streaks graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=ibnsultan&theme=radical&hide_border=false&include_all_commits=false&count_private=true" height="150" alt="stats graph" />
 </div> <br>
-
-![Abdulbasit's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ibnsultan&custom_title=Abdulbasit's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)
-
-<!-- <img src="https://github.com/godkingjay/godkingjay/blob/output/github-snake-dark-neon-2.svg" width="100%" align="middle"/> -->
-<img src="./assets/animated-wave.svg" />
