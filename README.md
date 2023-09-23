@@ -1,8 +1,21 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Abdulbasit+and+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Jarrian and Welcome to my Profile! animated typed out" width="100%"/>
-<img src="./assets/borderseparator.gif" width="100%"/>
+# Abdulbasit Rubeiyya
 
-🌱 I’m currently learning more about AI & ML<br>💻 Operating Systems: Windows, Ubuntu<br>💼 Currently working on Msomi (EdAS) - An AI-powered Learning Assistant
+🌱 I’m currently learning more about AI & ML
 
+💻 Operating Systems:
+ - Windows
+ - Linux (Debian, Ubuntu, Arch, Zorin)
+
+⚒️ Official Stack: LA(N)MPS
+
+💼 Currently working on
+ - Msomi (EdAS) - An AI-powered Education Engine
+ - LiteLink - Thinclient OS
+
+🏄‍♂️ Hobbies
+ - Coding
+ - Reading & Poetry
+ - Video games
 
 <div align="center">
   <h2 id="-socials-">🌐 Socials:</h2>
