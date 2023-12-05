@@ -53,10 +53,3 @@
 
 </div>
 <br>
-
-<div align="center">
-  <h2> <strong> My Github Stats </strong> <img src="./assets/borderseparator.gif"/></h2><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=ibnsultan&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
-  <img src="https://streak-stats.demolab.com?user=ibnsultan&theme=radical" height="150" alt="streaks graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ibnsultan&theme=radical&hide_border=false&include_all_commits=false&count_private=true" height="150" alt="stats graph" />
-</div> <br>
