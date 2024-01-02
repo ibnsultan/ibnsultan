@@ -18,14 +18,6 @@
  - Video games
 
 <div align="center">
-  <h2 id="-socials-">🌐 Socials:</h2>
-<p><a href="https://facebook.com/ibnsultan.sr"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&amp;logoColor=white" alt="Facebook"></a> <a href="https://instagram.com/abdulbasit.sr"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" alt="Instagram"></a> <a href="https://linkedin.com/in/abdulbasit-rubeiyya"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a> <a href="https://medium.com/@noob.dev"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&amp;logoColor=white" alt="Medium"></a> <a href="https://stackoverflow.com/users/11871867"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&amp;logoColor=white" alt="Stack Overflow"></a> <a href="https://twitter.com/AbdulbasitSr"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&amp;logoColor=white" alt="Twitter"></a> </p>
-
-</div>
-<img src="./assets/borderseparator.gif" width="100%"/>
-<br>
-
-<div align="center">
   <h2 id="-tech-stack-">💻 Tech Stack:</h2>
   <p>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP">
@@ -49,7 +41,8 @@
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&amp;logo=redis&amp;logoColor=white" alt="Redis">
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQLite">
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&amp;logo=Canva&amp;logoColor=white" alt="Canva"></p>
-
-</div>
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&amp;logo=Canva&amp;logoColor=white" alt="Canva">
+</p>
 <br>
+
+  [![Ibnsultan's github trophy](https://github-profile-trophy.vercel.app/?username=ibnsultan&row=1&no-bg=true)](https://github.com/ibnsultan/github-profile-trophy)</div>
